@@ -1,0 +1,18 @@
+{
+	"_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"accommodation_id" : "30ed57e7d8874af2a96bfa96003c04db",
+	"create_time" : ISODate("2019-08-17T19:20:57.526+07:00"),
+	"description" : "inventory 2 des",
+	"name" : "inventory 2",
+	"sell_end_date" : ISODate("2019-11-10T07:00:00.000+07:00"),
+	"sell_start_date" : ISODate("2019-06-10T07:00:00.000+07:00")
+},
+{
+	"_id" : "b55423d7dcc84bcea4b460fcc94519d8",
+	"accommodation_id" : "2e35ce5f3e314f079498075e69c26a9c",
+	"create_time" : ISODate("2019-08-17T19:20:39.439+07:00"),
+	"description" : "inventory 1 des",
+	"name" : "inventory 1",
+	"sell_end_date" : ISODate("2019-10-10T07:00:00.000+07:00"),
+	"sell_start_date" : ISODate("2019-07-10T07:00:00.000+07:00")
+},

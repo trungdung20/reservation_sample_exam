@@ -1,0 +1,9 @@
+{
+	"_id" : "687fcda0c7c24b9f9d1a3cc238acb047",
+	"create_time" : ISODate("2019-08-17T18:44:00.524+07:00"),
+	"email" : "quill@gmail.com",
+	"first_name" : "Peter",
+	"last_name" : "Quill",
+	"password" : "16041992",
+	"superuser" : true
+},

@@ -1,0 +1,30 @@
+{
+	"_id" : "b483cbaf8b3a4f888757e31ee175a825",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "inventory.view"
+},
+{
+	"_id" : "ad2ed3d8c3fc46c78e33d5713f51d1a4",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "hotel.add"
+},
+{
+	"_id" : "922bba5d768c48da9c7bf6f4d1ed1772",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "accommodation.add"
+},
+{
+	"_id" : "720eb0f353fd4def95debbe90bc724b5",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "reservation.view"
+},
+{
+	"_id" : "48acaf414ab04b24b303dcde4a74d7f9",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "inventory.add"
+},
+{
+	"_id" : "0edaf8666a2d401892a4e30570d34ebd",
+	"create_time" : ISODate("2019-08-17T18:31:53.816+07:00"),
+	"name" : "reservation.confirm"
+},

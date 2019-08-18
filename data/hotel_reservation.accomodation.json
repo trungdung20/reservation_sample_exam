@@ -1,0 +1,27 @@
+{
+	"_id" : "e31e65b514cd43d189abcd7e8922dfd3",
+	"create_time" : ISODate("2019-08-17T19:11:50.506+07:00"),
+	"description" : "Room 3 des",
+	"hotel_id" : "981d8df721044059a7a632220d88b865",
+	"image_url" : "https://www.airbnb.com/rooms/34607048",
+	"max_guests" : NumberInt(10),
+	"name" : "Room 3"
+},
+{
+	"_id" : "30ed57e7d8874af2a96bfa96003c04db",
+	"create_time" : ISODate("2019-08-17T19:11:42.913+07:00"),
+	"description" : "Room 1 des",
+	"hotel_id" : "981d8df721044059a7a632220d88b865",
+	"image_url" : "https://www.airbnb.com/rooms/34607048",
+	"max_guests" : NumberInt(10),
+	"name" : "Room 1"
+},
+{
+	"_id" : "2e35ce5f3e314f079498075e69c26a9c",
+	"create_time" : ISODate("2019-08-17T19:11:48.722+07:00"),
+	"description" : "Room 2 des",
+	"hotel_id" : "981d8df721044059a7a632220d88b865",
+	"image_url" : "https://www.airbnb.com/rooms/34607048",
+	"max_guests" : NumberInt(10),
+	"name" : "Room 2"
+},

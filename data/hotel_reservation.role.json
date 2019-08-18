@@ -1,0 +1,14 @@
+{
+	"_id" : "8fad6004d9934a6a9688cf19ef1dbd18",
+	"create_time" : ISODate("2019-08-17T18:44:28.536+07:00"),
+	"name" : "Peter_CEO",
+	"permission_ids" : [
+		"48acaf414ab04b24b303dcde4a74d7f9",
+		"b483cbaf8b3a4f888757e31ee175a825",
+		"922bba5d768c48da9c7bf6f4d1ed1772",
+		"ad2ed3d8c3fc46c78e33d5713f51d1a4",
+		"720eb0f353fd4def95debbe90bc724b5",
+		"0edaf8666a2d401892a4e30570d34ebd"
+	],
+	"user_id" : "687fcda0c7c24b9f9d1a3cc238acb047"
+},

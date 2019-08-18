@@ -1,0 +1,80 @@
+{
+	"_id" : "f2c0fc0d301e43ccbad0879672b97621",
+	"create_time" : ISODate("2019-08-17T19:20:51.657+07:00"),
+	"date" : ISODate("2019-08-16T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "b55423d7dcc84bcea4b460fcc94519d8",
+	"update_time" : null
+},
+{
+	"_id" : "efab509b074446f4997e46dfecf0c3c9",
+	"create_time" : ISODate("2019-08-17T19:20:57.530+07:00"),
+	"date" : ISODate("2019-07-10T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"update_time" : null
+},
+{
+	"_id" : "e1e9af296c3445b4878416e36d26d593",
+	"create_time" : ISODate("2019-08-17T19:20:49.790+07:00"),
+	"date" : ISODate("2019-08-15T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "b55423d7dcc84bcea4b460fcc94519d8",
+	"update_time" : null
+},
+{
+	"_id" : "a5b4a909902d4e179e2415c9beea77c1",
+	"create_time" : ISODate("2019-08-17T19:20:53.427+07:00"),
+	"date" : ISODate("2019-08-20T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "b55423d7dcc84bcea4b460fcc94519d8",
+	"update_time" : null
+},
+{
+	"_id" : "8e13ead92c474eaeb871a018e8b30820",
+	"create_time" : ISODate("2019-08-17T19:20:46.976+07:00"),
+	"date" : ISODate("2019-08-10T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "b55423d7dcc84bcea4b460fcc94519d8",
+	"update_time" : null
+},
+{
+	"_id" : "1c00f794acbd46628db422333b928287",
+	"create_time" : ISODate("2019-08-17T19:20:57.539+07:00"),
+	"date" : ISODate("2019-08-18T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(9),
+	"room_inventory_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"update_time" : ISODate("2019-08-17T21:04:50.837+07:00")
+},
+{
+	"_id" : "0a7d02854bb64443b394ab87b77d4766",
+	"create_time" : ISODate("2019-08-17T19:20:57.535+07:00"),
+	"date" : ISODate("2019-09-15T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"update_time" : null
+},
+{
+	"_id" : "07fda435b9e04064b2f7be79342c9f7f",
+	"create_time" : ISODate("2019-08-17T19:20:57.543+07:00"),
+	"date" : ISODate("2019-08-20T07:00:00.000+07:00"),
+	"quantity" : NumberInt(10),
+	"rate" : NumberInt(100),
+	"remain" : NumberInt(10),
+	"room_inventory_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"update_time" : null
+},

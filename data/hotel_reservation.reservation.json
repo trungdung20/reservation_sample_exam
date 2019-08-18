@@ -1,0 +1,17 @@
+{
+	"_id" : "51119e312bae4f6f9652851a5308f1c0",
+	"adults" : NumberInt(5),
+	"check_in" : ISODate("2019-08-12T07:00:00.000+07:00"),
+	"check_out" : ISODate("2019-08-20T07:00:00.000+07:00"),
+	"children" : NumberInt(4),
+	"conf_number" : NumberInt(2),
+	"create_time" : ISODate("2019-08-17T21:06:09.209+07:00"),
+	"email" : "dung@gmail.com",
+	"first_name" : "Do",
+	"last_name" : "Dung",
+	"message" : "text reservation message",
+	"phone" : "0976650613",
+	"room_inventory_id" : "bc2ce44a3b564864966ec02eadc67c44",
+	"status" : "confirmed",
+	"update_time" : ISODate("2019-08-17T21:09:23.425+07:00")
+},
